@@ -33,5 +33,6 @@ phpinfo();
 ?>
 " >/var/www/html/info.php
 
-echo "Katso selaimella tarkempia tietoja palvelimesta: http://localhost/info.php"
+echo "Katso selaimella tarkempia tietoja palvelimesta:\n
+http://localhost/info.php"
 echo "Lue netistä tarkemmat ohjeet palvelimen asetuksien muokkaamiseen käyttötarpeen mukaan."
